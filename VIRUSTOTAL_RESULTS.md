@@ -1,14 +1,14 @@
 # VirusTotal release scans
 
-Results below are produced when a [release](https://github.com/jeremy15n/BetterBudget/releases) is **published**. Workflow: [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/27994208337).
+Results below are produced when a [release](https://github.com/jeremy15n/BetterBudget/releases) is **published**. Workflow: [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/27996227293).
 
-## v1.0.6
+## v1.0.7
 
-Scanned from workflow [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/27994208337) at `4062daa`.
+Scanned from workflow [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/27996227293) at `b5f6978`.
 
 | Asset | Size | SHA256 | Malicious | Suspicious | Harmless | Undetected | [VirusTotal](https://www.virustotal.com/) |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | --- |
-| `BetterBudget_1.0.6_x64-setup.exe` | 5.1M | `de62f7115a94bb477ffeb38e89318257cac6d47b0cdcc5d0ddc331fa1f7f9aa5` | 3 | 0 | 0 | 66 | [View](https://www.virustotal.com/gui/file/de62f7115a94bb477ffeb38e89318257cac6d47b0cdcc5d0ddc331fa1f7f9aa5) |
-| `BetterBudget_1.0.6_x64_en-US.msi` | 7.0M | `7b959d6cab90a8d373fe6fe6c3149939a144a16110c836ea8d8f7bff92b6274e` | 0 | 0 | 0 | 60 | [View](https://www.virustotal.com/gui/file/7b959d6cab90a8d373fe6fe6c3149939a144a16110c836ea8d8f7bff92b6274e) |
+| `BetterBudget_1.0.7_x64-setup.exe` | 5.1M | `2fe424a2189b5c87f7cd4a94de60dd7440d8b3db08e87cc3989ef71465ec7329` | 2 | 0 | 0 | 66 | [View](https://www.virustotal.com/gui/file/2fe424a2189b5c87f7cd4a94de60dd7440d8b3db08e87cc3989ef71465ec7329) |
+| `BetterBudget_1.0.7_x64_en-US.msi` | 7.0M | `c663541c626d9d9f97ff02efdecc1fad60d1f3f0e15f38cf98f70c5a9760d894` | 0 | 0 | 0 | 58 | [View](https://www.virustotal.com/gui/file/c663541c626d9d9f97ff02efdecc1fad60d1f3f0e15f38cf98f70c5a9760d894) |
 
 _VirusTotal [terms](https://docs.virustotal.com/docs/terms-of-service) apply; results are indicative, not a guarantee._
