@@ -1,14 +1,14 @@
 # VirusTotal release scans
 
-Results below are produced when a [release](https://github.com/jeremy15n/BetterBudget/releases) is **published**. Workflow: [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/28214238758).
+Results below are produced when a [release](https://github.com/jeremy15n/BetterBudget/releases) is **published**. Workflow: [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/28263078210).
 
-## v1.0.13
+## v1.0.14
 
-Scanned from workflow [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/28214238758) at `102164b`.
+Scanned from workflow [`VirusTotal release scan`](https://github.com/jeremy15n/BetterBudget/actions/runs/28263078210) at `8c027cf`.
 
 | Asset | Size | SHA256 | Malicious | Suspicious | Harmless | Undetected | [VirusTotal](https://www.virustotal.com/) |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | --- |
-| `BetterBudget_1.0.13_x64-setup.exe` | 5.1M | `229b54ea2a2bb1a8b69761cc406d185df82271e2fbe34705a5901bf9a13ac9be` | 3 | 0 | 0 | 63 | [View](https://www.virustotal.com/gui/file/229b54ea2a2bb1a8b69761cc406d185df82271e2fbe34705a5901bf9a13ac9be) |
-| `BetterBudget_1.0.13_x64_en-US.msi` | 7.0M | `906f2927840b960d98a01b53cc28d42efdf18e2a3ea38e877a8f51f7bf8766cd` | 0 | 0 | 0 | 60 | [View](https://www.virustotal.com/gui/file/906f2927840b960d98a01b53cc28d42efdf18e2a3ea38e877a8f51f7bf8766cd) |
+| `BetterBudget_1.0.14_x64-setup.exe` | 5.1M | `60b9d2c234322c5eaad7e6b0c249b0776f25273662cd02f9f4b2e872b4b3a12a` | 2 | 0 | 0 | 65 | [View](https://www.virustotal.com/gui/file/60b9d2c234322c5eaad7e6b0c249b0776f25273662cd02f9f4b2e872b4b3a12a) |
+| `BetterBudget_1.0.14_x64_en-US.msi` | 7.0M | `6c86520919ceb7d54101e24da7552c678b736417563322b93df6fdde07b1c660` | 0 | 0 | 0 | 61 | [View](https://www.virustotal.com/gui/file/6c86520919ceb7d54101e24da7552c678b736417563322b93df6fdde07b1c660) |
 
 _VirusTotal [terms](https://docs.virustotal.com/docs/terms-of-service) apply; results are indicative, not a guarantee._
